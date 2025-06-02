@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE> PHISHING </TITLE>
+</HEAD>
+<BODY>
+<H1>PHISHING><H1>BR>
+
+<p><h5>INTEGRANTES:</h5></p>
+<p><h6>KATIA LOPANTZI CUAMATZI</h5></p>
+<p><h6>LILIANA SHARAI COCOLETZI ACOLTZI</h5></p>
+<p><h6>ARIS BRITANY TLACHI SANCHEZ</h6></p>
+<br/>
+<h3>¿QUE ES?</h3> <p>El phishing es una técnica de ingeniería social que consisteen el envío de correos electrónicos que suplantan la identidad de compañías u organismos públicos y solicitan información personal y bancaria al usuario.</p>
+<br/>
+<img src="https://www.valoradata.com/wp-content/uploads/2019/09/phishing.jpg"/>
+<br/>
+<h3>¿Cómo funciona el phishing?</h3> <p>Los ciberdelincuentes envían correos electrónicos falsos que parecen legítimos. En estos correos, solicitan al
+ usuario que acceda a un enlace o descargue un archivo malicioso. El objetivo es robar información personal, realizar un cargo económico o infectar el dispositivo.</p>
+<h3>¿COMO PREVENIR?</h3>
+ <p>1 - Infórmate.</p>
+ <p>2 - Estate alerta y desconfía.</p>
+ <p>3 - Usa contraseñas seguras y autenticación de dos factores.</p>
+ <p>4 - Mantén tu software y herramientas de seguridad actualizados.</p>
+<br/>
+<img src="https://th.bing.com/th/id/OIP.ghsE2ZqWQ8XRtI1LBegylQHaFq?rs=1&pid=ImgDetMain"/>
+<br/>
+<p>Nunca hagas clic en enlaces sospechosos ni descargues archivos adjuntos.</p>
+<p>Phishing es un término informático que distingue a un conjunto de técnicas que persiguen el engaño a una víctima ganándose su confianza haciéndose pasar por una persona, empresa o servicio de confianza, para manipularla y hacer que realice acciones que no debería realizar.<p>
+<br/>
+<h3><Consecuencias del phishing</h3>
+<p>Si una persona cae en un ataque de phishing, puede sufrir el robo de identidad, fraudes financieros y pérdidas económicas significativas, ya que los delincuentes pueden utilizar sus datos para realizar transacciones no autorizadas o acceder a cuentas personales.</p>
+<img src="https://www.galdon.com/wp-content/uploads/2021/05/portada.png"/>
+</BODY>
+</HTML>
